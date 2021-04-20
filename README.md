@@ -30,7 +30,7 @@
 <h2>ℹ️ Como utilizar</h2>
 
     Clone esse repositório
-    $ git clone https://github.com/rafaasimi/Dogs-Origamid.git
+    $ git clone https://github.com/viniciosComerciante/Dogs.git
 
     Instalar dependências
     $ npm install
