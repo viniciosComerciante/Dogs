@@ -2,7 +2,7 @@
 <img src='./logo_readme.png'>
 
 <div>
-    <img src="https://img.shields.io/github/repo-size/rafaasimi/Dogs-Origamid">
+    <img src="https://img.shields.io/github/repo-size/viniciosComerciante/Dogs">
     <img src="https://img.shields.io/github/last-commit/viniciosComerciante/Dogs">
     <img src="https://img.shields.io/github/languages/count/viniciosComerciante/Dogs">
     <img src="https://img.shields.io/github/languages/top/viniciosComerciante/Dogs">
